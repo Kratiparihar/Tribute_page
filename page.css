@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-image: url(background.jpeg);
+}
+
+.middle{
+    margin-left: 40%;
+}
+
+#subheader{
+    font-style: bold;
+    font-size: large;
+    margin-left: 43%;
+}
+
+img{
+    height: 400px;
+    margin-left: 32%;
+}
+
+#details{
+    box-sizing: border-box;
+    margin-left: 28%;
+    margin-right: 28%;
+}
+
+#heading3{
+    margin-left: 35%;
+}
+
+#quote{
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 10px;
+}
